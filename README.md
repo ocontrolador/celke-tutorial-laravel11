@@ -1,3 +1,9 @@
+# [Curso Laravel 11 - Celke](https://www.youtube.com/watch?v=CMwhGe12nxw&list=PLmY5AEiqDWwAx3cxRYWCkJgGtJDjcFaZz&index=2)
+
+
+[![](https://i.ytimg.com/vi/CMwhGe12nxw/maxresdefault.jpg)](https://www.youtube.com/watch?v=CMwhGe12nxw&list=PLmY5AEiqDWwAx3cxRYWCkJgGtJDjcFaZz&index=2)
+
+
 ## Requisitos
 
 * PHP 8.2 ou superior
