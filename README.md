@@ -67,4 +67,11 @@ git clone --branch <branch_name> <repository_url>
 composer require textflow/sms-api
 ```
 
+## API com CRUD
+
+Cria o arquivo de rotas para API
+```
+php artisan install:api
+```
+
 

@@ -22,4 +22,7 @@ yarn-error.log
 /.zed
 contents.json
 contents-groq.json
+.contents-groq.json
+contents-gemini.json
+.contents-gemini.json
 /files
