@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "589cc0f65c3aaa7d4e9024d545bc1974",
+    "content-hash": "2d5b953201af16aad4afb08fb806aa78",
     "packages": [
         {
             "name": "brick/math",
@@ -5341,6 +5341,59 @@
                 }
             ],
             "time": "2024-09-16T10:07:02+00:00"
+        },
+        {
+            "name": "textflow/sms-api",
+            "version": "v1.6.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Skocimis/textflow-php.git",
+                "reference": "c8935b850a8094fa3b08c6224d723937e479a494"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Skocimis/textflow-php/zipball/c8935b850a8094fa3b08c6224d723937e479a494",
+                "reference": "c8935b850a8094fa3b08c6224d723937e479a494",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.4|^8"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "\\": "src"
+                },
+                "classmap": [
+                    "src/TextFlowClient.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "TextFlow",
+                    "email": "admin@textflow.me"
+                }
+            ],
+            "description": "PHP library that helps you send SMS using TextFlow API",
+            "keywords": [
+                "API-Client",
+                "api",
+                "simple-sms",
+                "sms",
+                "sms-api",
+                "sms-verification",
+                "text-message"
+            ],
+            "support": {
+                "email": "support@textflow.me",
+                "issues": "https://github.com/Skocimis/textflow-php/issues",
+                "source": "https://github.com/Skocimis/textflow-php/tree/v1.6.4"
+            },
+            "time": "2023-07-23T10:50:53+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",

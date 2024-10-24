@@ -55,3 +55,16 @@ git clone --branch <branch_name> <repository_url>
 5 SMS grátis para testar: https://login.iagente.com.br/solicitacao-conta-sms
 
 > API: https://iagente.com.br/api-sms/#11
+
+## Envio WhatsApp
+
+> API gratuita para uso pessoal: https://www.callmebot.com/blog/free-api-whatsapp-messages/
+
+## Envio SMS via TextFlow
+
+> API TextFlow para envio SMS: https://textflow.me/api
+```
+composer require textflow/sms-api
+```
+
+
