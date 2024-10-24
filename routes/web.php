@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\UserController;
+use App\Http\Controllers\EnviarSmsController;
 use Illuminate\Support\Facades\Route;
 
 
@@ -13,3 +14,6 @@ Route::get('/users/{id}/edit', [UserController::class, 'edit'])->name('users.edi
 
 // users.destroy
 Route::get('/users/{id}', [UserController::class, 'destroy'])->name('users.destroy');
+
+// get enviar-sms
+Route::get('/sms/{codigo?}/{nome?}', [EnviarSmsController::class, 'index'])->name('enviar-sms.index');

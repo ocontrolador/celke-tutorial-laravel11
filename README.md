@@ -49,3 +49,9 @@ Baixar os arquivos do Git
 ```
 git clone --branch <branch_name> <repository_url>
 ```
+
+## Envio SMS
+
+5 SMS grátis para testar: https://login.iagente.com.br/solicitacao-conta-sms
+
+> API: https://iagente.com.br/api-sms/#11
