@@ -74,4 +74,14 @@ Cria o arquivo de rotas para API
 php artisan install:api
 ```
 
+Criar usuarios fake
+```
+php artisan make:seeder UserSeeder
+```
+
+Roda a seed
+```
+php artisan db:seed
+```
+
 
